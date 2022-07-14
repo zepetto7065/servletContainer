@@ -1,0 +1,9 @@
+slipp.iml
+tomcat.8080
+out
+
+lib
+apache-tomcat-8.5.81
+apache-tomcat-8.5.81-embed
+.idea
+.DS_Store
